@@ -4,8 +4,8 @@ yes indeed it go brrr for rythm games\\
 
 **This will be documented in the following way:**\\
 
-Version # or name
-|\
+Version # or name:
+\|\
 |- CAD files\
 |- QMKs (labeled)\
 |- Gerbers
