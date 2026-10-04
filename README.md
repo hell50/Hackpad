@@ -10,6 +10,6 @@ Version # or name: \
 |- QMKs (labeled)\
 |- Gerbers
 
-Uhh idk what else to add to the readme\
+Uhh idk what else to add to the readme
 
 Made with <3 I guess :)
