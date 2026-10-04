@@ -1,4 +1,4 @@
-# Osu!Pad
+# Rhythm!Pad
 yes indeed it go brrr for rythm games
 
 
