@@ -1,8 +1,8 @@
-# Rhythm!Pad\
-yes indeed it go brrr for rhythm games\
+# Rhythm!Pad
+yes indeed it go brrr for rhythm games
 
 
-**This will be documented in the following way:**\
+**This will be documented in the following way:**
 
 Version # or name: \
 |\
