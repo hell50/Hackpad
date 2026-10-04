@@ -12,4 +12,4 @@ Version # or name: \
 
 Uhh idk what else to add to the readme\\
 
-Made with <3 I guess :)\
+Made with <3 I guess :)
